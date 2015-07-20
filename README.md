@@ -8,6 +8,7 @@ i.e. ```<bot_nick> The Verge: Why you should buy 3 iPhones instead of one
 
 ## Installation
 - Clone this repo
+- ```pip -r requirements.txt```
 - Copy ttrss.conf.example to ttrss.conf and edit
 
 ## Usage
